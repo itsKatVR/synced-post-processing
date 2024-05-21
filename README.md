@@ -22,9 +22,6 @@ A project with the latest VRChat SDK3 Release- can be found below:
 
 [Udon Sharp](https://github.com/vrchat-community/UdonSharp/releases/tag/v0.20.3)
 
-## Pre-Req
-Import TMPro for Text Element..
-
 ## How it works
 UI Slider controls a Post Processing Volume, this is synced via network.
 Late-Joiner Friendly!
